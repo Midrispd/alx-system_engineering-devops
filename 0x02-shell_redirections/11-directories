@@ -1,2 +1,2 @@
 #!/bin/bash
-fine . -type d ! -path . -print | wc -l
+fine . -type d ! -path . -print | wc -1
